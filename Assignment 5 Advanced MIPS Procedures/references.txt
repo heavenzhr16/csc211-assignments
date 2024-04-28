@@ -1,0 +1,21 @@
+Assignment : MIPS Procedures
+ 
+ 
+ 
+Academic honesty certification:
+ 
+  Written/online sources used:
+ 
+	Assignment 4 : MIPS Programming
+ 
+  Help obtained:
+ 
+	None
+ 
+  Our initials below confirm that the above list of sources
+ 
+  is complete AND that I have not talked to anyone else
+ 
+  (e.g., CSC 211 students) about the solution to this problem
+ 
+  Initials:  LHV

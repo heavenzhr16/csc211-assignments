@@ -1,0 +1,11 @@
+#Assignment: Logisim Adders
+
+ci x1 x2 co s
+0  0  0  0  0
+0  0  1  0  1
+0  1  0  0  1
+0  1  1  1  0
+1  0  0  0  1
+1  0  1  1  0
+1  1  0  1  0
+1  1  1  1  1

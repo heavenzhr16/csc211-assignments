@@ -1,0 +1,27 @@
+With signed numbers in two's complement, overflow during the process of
+addition and subtraction can be detected by checking the carry_in and the carry_out.
+
+By implementing the XOR gate with the carry_in and the carry_out, we can
+check if there is an overflow occuring in the circuit.
+
+The truth table for this logic would look like this.
+
+c_in  c_out  O(overflow)
+0      0              0
+0      1              1
+1      0              1
+1      1              0
+
+This truth table can be implemented into the logic expression as
+c_in XOR c_out
+
+For example, with addition
+1000(-8) + 1111(-1) = 0111(+7) 
+In this case there is no carry-in, but the carry-out is 1, and the result also tells us that
+adding two negative numbers result in a positive number, meaning that overflow has occured.
+
+With subtraction,
+0011(3) - 1010(-6) = 1001(-7)
+In this case there is a carry-in but no carry-out. The result also tells us that
+in a 4-bit-alu the positive number 9 can't be displayed, therefore showing the
+number -7.

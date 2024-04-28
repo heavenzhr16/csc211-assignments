@@ -1,0 +1,16 @@
+  Assignment: MIPS Programming
+ 
+  Academic honesty certification:
+
+  Written/online sources used:
+David A. Patterson and John L. Hennessy, Computer Organization and Design: 
+The Hardware/Software Interface MIPS Edition, 6th edition, Elsevier, 2020. ISBN 978-0128201091.
+
+  Help obtained
+None
+
+  My initial below confirm that the above list of sources
+  is complete AND that I have not talked to anyone else
+  (e.g., CSC 211 students) about the solution to this problem
+
+  Initials: HVL
